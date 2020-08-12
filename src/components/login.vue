@@ -10,7 +10,7 @@
          <el-input type="password" autocomplete="off" placeholder="请输入密码"></el-input>
        </el-form-item>
        <el-form-item>
-         <el-button type="primary" style="width: 100%;" @click="tijiao">提交</el-button>
+         <el-button type="primary" style="width: 100%;" @click="tijiao">确定</el-button>
        </el-form-item>
        <el-row style="text-align: center; margin-top: -10px;;">
          <el-link type="primary">忘记密码</el-link>
