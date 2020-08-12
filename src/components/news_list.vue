@@ -57,22 +57,22 @@
         dialogTitle: '增加',
         rowIndex: null,
         tableData: [{
-          date: '2016-05-02',
+          date: '2020-08-11',
           name: '王小虎',
           address: '标题1',
           age: '内容1',
         }, {
-          date: '2016-05-04',
+          date: '2020-08-11',
           name: '王小虎',
           address: '标题2',
           age: '内容2',
         }, {
-          date: '2016-05-01',
+          date: '2020-08-11',
           name: '王小虎',
           address: '标题3',
           age: '内容3',
         }, {
-          date: '2016-05-03',
+          date: '2020-08-11',
           name: '王小虎',
           address: '标题4',
           age: '内容4',
